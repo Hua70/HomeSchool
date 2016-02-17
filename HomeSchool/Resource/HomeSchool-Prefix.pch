@@ -1,0 +1,15 @@
+//
+//  HomeSchool-Prefix.pch
+//  HomeSchool
+//
+//  Created by YWH on 16/2/18.
+//  Copyright © 2016年 Vma. All rights reserved.
+//
+
+#ifndef HomeSchool_Prefix_pch
+#define HomeSchool_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* HomeSchool_Prefix_pch */
